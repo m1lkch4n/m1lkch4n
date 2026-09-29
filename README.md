@@ -1,6 +1,6 @@
 # m1lkch4n
 # About Me:
-studying in college, but mostly trying to figure out backend and how hardware breathes on a lower level. i am self-taught, mostly because it feels safer that way.<br>heavy, low-level software. things that feel solid. i need valuable experience, or maybe just a reason to keep coding.<br>any advice that can teach me something real. if you know how to make things work better, please tell me.<br>c++, c#, and how game engines piece themselves together.<br>why low-level code feels like the only thing that makes sense, or anything at all, really. i will try my best to answer.
+<span style="color:red">16 y.o programmer. Studying in college, but mostly trying to figure out backend and how hardware breathes on a lower level. i am self-taught, mostly because it feels safer that way.<br>heavy, low-level software. things that feel solid. i need valuable experience, or maybe just a reason to keep coding.<br>any advice that can teach me something real. if you know how to make things work better, please tell me.<br>c++, c#, and how game engines piece themselves together.<br>why low-level code feels like the only thing that makes sense, or anything at all, really. i will try my best to answer.</span>
 
 
 # Tech Stack:
